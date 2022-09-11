@@ -2,7 +2,7 @@
 A mini dataset of lithology microscopic images is generated for both multi-class and binary classification task
 ## Lithofacies Microscopic Images description  
 ### Introductoin
-
+Lithology discrimination is a crucial activity in characterizing oil reservoirs, and processing lithology microscopic images is an essential technique for investigating fossils and minerals and geological assessment of shale oil exploration.
 
 ### DATASET GENERATION AND PRE-PROCESSING
 In this study, a mini dataset of lithology microscopic images is generated for both multi-class and binary classification task. In the following, the process of producing the mini dataset is described in detail and step by step.
