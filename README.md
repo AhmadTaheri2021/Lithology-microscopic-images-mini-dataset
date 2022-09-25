@@ -12,3 +12,5 @@ Core samples used in this dataset have been taken from 2905 meters to 3101 meter
 
 ![image](https://user-images.githubusercontent.com/92728743/184981639-1dbe1bd8-0a87-4691-adaa-51e3d7ab7529.png)
 
+### How to use 
+In order to use the dataset, first you should download the dataset folder 'DS_lithology_new'. Then, use the 'dataset_loader(phath)' to load and prepar train and test sets. 
