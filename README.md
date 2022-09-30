@@ -11,9 +11,9 @@ A mini dataset of lithology microscopic images is generated for both multi-class
 ![image](https://user-images.githubusercontent.com/92728743/184981639-1dbe1bd8-0a87-4691-adaa-51e3d7ab7529.png)
 
 ### *How to use the dataset*
-In order to use the dataset, first you should download the [*Dataset*](https://drive.google.com/file/d/1fucjjqNdQ7gAiDVW7bZsf5n4EP6bIkCP/view?usp=sharing). Then, use the *'dataset_loader.py'* to load  images.  
+In order to use the dataset, first you should download the [*Dataset*](https://www.dropbox.com/s/gfknopz2w5wo4ew/Lithology_Microscopic_Image_Dataset.zip?dl=0). Then, use the *'dataset_loader.py'* to load  images.  
 
-[*Lithology-microscopic-images-mini-dataset*](https://drive.google.com/file/d/1fucjjqNdQ7gAiDVW7bZsf5n4EP6bIkCP/view?usp=sharing)
+[*Download Lithology-microscopic-images-mini-dataset*](https://www.dropbox.com/s/gfknopz2w5wo4ew/Lithology_Microscopic_Image_Dataset.zip?dl=0)
 
 ------------------------------------------------
 #### *Reference:*
