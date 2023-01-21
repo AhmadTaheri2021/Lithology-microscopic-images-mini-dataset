@@ -11,19 +11,22 @@ A mini dataset of lithology microscopic images is generated for both multi-class
 ![image](https://user-images.githubusercontent.com/92728743/184981639-1dbe1bd8-0a87-4691-adaa-51e3d7ab7529.png)
 
 ### *Contents:*
-This repo contains following items:
+This repo contains the following items:
 - Dataset Folder 'DS_Lithology_new':
 - Dataset loader 'dataset_loader.py':
-- An example 'DL_Lithology_microscopic_images_classification_task': 
-#### *DS_Lithology_new*
-The folder '' is the Lithology-microscopic-images-mini-dataset and contains two sub-folders: 
-The 'train_set': All train imag samples are held in this sub-folder.
-The 'test_set':  All test imag samples are held in this sub-folder.
+- An example 'DL_Lithology_microscopic_images_classification_task':
+
+##### *Dataset Folder 'DS_Lithology_new':*
+The folder 'DS_Lithology_new' is the Lithology-microscopic-images-mini-dataset and contains two sub-folders: 
+- The 'train_set':  All train image samples are held in this sub-folder.
+- The 'test_set':  All test image samples are held in this sub-folder.
+     
+##### *Dataset loader 'dataset_loader.py':*
+This function is provided to load and produce train and test sets. 
 
 ### *How to use the dataset*
-In order to use the dataset, first you should download the [*Dataset*](https://www.dropbox.com/s/gfknopz2w5wo4ew/Lithology_Microscopic_Image_Dataset.zip?dl=0). Then, use the *'dataset_loader.py'* to load  images.  
+In order to use the dataset, first you should download the folder '*DS_Lithology_new*'. Then, use the *'dataset_loader.py'* to load  images (this function returns X_train, Y_train, X_test, Y_test).  
 
-[*Download Lithology-microscopic-images-mini-dataset*](https://www.dropbox.com/s/gfknopz2w5wo4ew/Lithology_Microscopic_Image_Dataset.zip?dl=0)
 
 ------------------------------------------------
 #### *Reference:*
