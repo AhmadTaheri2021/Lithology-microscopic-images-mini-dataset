@@ -10,6 +10,16 @@ A mini dataset of lithology microscopic images is generated for both multi-class
 
 ![image](https://user-images.githubusercontent.com/92728743/184981639-1dbe1bd8-0a87-4691-adaa-51e3d7ab7529.png)
 
+### *Contents:*
+This repo contains following items:
+- Dataset Folder '':
+- Dataset loader 'dataset_loader.py':
+- An example 'DL_Lithology_microscopic_images_classification_task': 
+#### *DS_*
+The folder '' is the Lithology-microscopic-images-mini-dataset and contains two sub-folders: 
+The 'train_set': All train imag samples are held in this sub-folder.
+The 'test_set':  All test imag samples are held in this sub-folder.
+
 ### *How to use the dataset*
 In order to use the dataset, first you should download the [*Dataset*](https://www.dropbox.com/s/gfknopz2w5wo4ew/Lithology_Microscopic_Image_Dataset.zip?dl=0). Then, use the *'dataset_loader.py'* to load  images.  
 
