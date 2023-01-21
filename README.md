@@ -12,10 +12,10 @@ A mini dataset of lithology microscopic images is generated for both multi-class
 
 ### *Contents:*
 This repo contains following items:
-- Dataset Folder '':
+- Dataset Folder 'DS_Lithology_new':
 - Dataset loader 'dataset_loader.py':
 - An example 'DL_Lithology_microscopic_images_classification_task': 
-#### *DS_*
+#### *DS_Lithology_new*
 The folder '' is the Lithology-microscopic-images-mini-dataset and contains two sub-folders: 
 The 'train_set': All train imag samples are held in this sub-folder.
 The 'test_set':  All test imag samples are held in this sub-folder.
