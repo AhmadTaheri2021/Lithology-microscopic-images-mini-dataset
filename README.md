@@ -27,6 +27,8 @@ This function is provided to load and produce train and test sets.
 ### *How to use the dataset*
 In order to use the dataset, first you should download the folder '*DS_Lithology_new*'. Then, use the *'dataset_loader.py'* to load  images (this function returns X_train, Y_train, X_test, Y_test).  
 
+### *Acknowledgement:*
+This Dataset was developed under supervision of Dr. Keyvan RahimiZadeh and in collabotion with Prof. Amin Beheshti.
 
 ------------------------------------------------
 #### *Reference:*
